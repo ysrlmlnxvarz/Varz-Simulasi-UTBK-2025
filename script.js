@@ -1,4 +1,3 @@
-
 const quizForm = document.getElementById("quizForm");
 const resultDiv = document.getElementById("result");
 const timerDisplay = document.getElementById("timer");
